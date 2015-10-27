@@ -34,7 +34,7 @@ public class mNetwork {
                 .asString();
 
         if(res.getStatus() != 200) {
-            throw new Exception("Request failed");
+            throw new Exception("Request failed. HTTP code " + res.getStatus());
         }
         else {
             return res.getBody();

@@ -17,6 +17,6 @@ public class mainclass {
         catch (Exception e) {
             e.printStackTrace();
         }
-        System.out.println(matchHistory.get(0).players.get(0).accountID);
+        System.out.println(matchHistory.size());
     }
 }
