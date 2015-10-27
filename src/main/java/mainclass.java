@@ -13,8 +13,19 @@ public class mainclass {
         List<cMatch> matchHistory = new ArrayList<cMatch>();
         try {
             matchHistory = hGlobals.mDS.getMatchHistory(userID, 1);
-            System.out.println(matchHistory.get(0).matchID);
-            hGlobals.mDS.getMatchStats(matchHistory.get(0).matchID);
+            cMatch match = hGlobals.mDS.getMatchStats(matchHistory.get(0));
+
+            System.out.println(match.matchID);
+            System.out.println();
+            System.out.println("PlayerID\tSlotID\tHeroID\tK\tD\tA");
+            for (cPlayer player : match.players) {
+                System.out.println(String.valueOf(player.accountID) + "\t" +
+                        String.valueOf(player.statsMatch.playerSlot) + "\t" +
+                        String.valueOf(player.statsMatch.heroID) + "\t" +
+                        String.valueOf(player.statsMatch.kills) + "\t" +
+                        String.valueOf(player.statsMatch.deaths) + "\t" +
+                        String.valueOf(player.statsMatch.assists));
+            }
         }
         catch (Exception e) {
             e.printStackTrace();

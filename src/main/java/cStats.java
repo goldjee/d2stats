@@ -3,27 +3,27 @@
  */
 public class cStats {
     public long matchID;
-    public int player_slot;
-    public int hero_id;
-    public int item_0;
-    public int item_1;
-    public int item_2;
-    public int item_3;
-    public int item_4;
-    public int item_5;
+    public int playerSlot;
+    public int heroID;
+    public int item0;
+    public int item1;
+    public int item2;
+    public int item3;
+    public int item4;
+    public int item5;
     public double kills;
     public double deaths;
     public double assists;
-    public double leaver_status;
+    public int leaverStatus;
     public double gold;
-    public double last_hits;
+    public double lastHits;
     public double denies;
-    public double gold_per_min;
-    public double xp_per_min;
-    public double gold_spent;
-    public double hero_damage;
-    public double tower_damage;
-    public double hero_healing;
+    public double goldPerMin;
+    public double xpPerMin;
+    public double goldSpent;
+    public double heroDamage;
+    public double towerDamage;
+    public double heroHealing;
     public double level;
 
     public cStats() {}

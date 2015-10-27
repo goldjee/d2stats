@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0b8b03ea-2aea-4bcc-b4f5-5a522c385b88" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cStats.java" />
-      <change type="MODIFICATION" beforePath="C:\Users\zigle_000\IdeaProjects\d2stats\target\classes\mDotaStatsman.class" afterPath="C:\Users\zigle_000\IdeaProjects\d2stats\target\classes\mDotaStatsman.class" />
-      <change type="MODIFICATION" beforePath="C:\Users\zigle_000\IdeaProjects\d2stats\target\classes\mainclass.class" afterPath="C:\Users\zigle_000\IdeaProjects\d2stats\target\classes\mainclass.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cMatch.java" afterPath="$PROJECT_DIR$/src/main/java/cMatch.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cPlayer.java" afterPath="$PROJECT_DIR$/src/main/java/cPlayer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/cStats.java" afterPath="$PROJECT_DIR$/src/main/java/cStats.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mDotaStatsman.java" afterPath="$PROJECT_DIR$/src/main/java/mDotaStatsman.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/mainclass.java" afterPath="$PROJECT_DIR$/src/main/java/mainclass.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="d2stats.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -35,8 +31,8 @@
       <file leaf-file-name="mainclass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mainclass.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25164473">
-              <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+            <state vertical-scroll-proportion="0.67105263">
+              <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -46,21 +42,8 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cMatch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/cPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="e#190#191#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -69,15 +52,10 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/mDotaStatsman.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="119" column="70" selection-start-line="119" selection-start-column="70" selection-end-line="119" selection-end-column="70" />
+              <caret line="178" column="37" selection-start-line="178" selection-start-column="37" selection-end-line="178" selection-end-column="37" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="method#getMatchHistory#0;class#mDotaStatsman#0" expanded="false" />
-                <element signature="e#484#494#0" expanded="true" />
-                <element signature="e#1172#1180#0" expanded="true" />
-                <element signature="e#1463#1472#0" expanded="true" />
-                <element signature="method#getMatchHistory#1;class#mDotaStatsman#0" expanded="false" />
-                <element signature="e#5327#5337#0" expanded="true" />
+                <element signature="e#6397#6406#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -87,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/cStats.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+              <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -119,11 +97,11 @@
         <option value="$PROJECT_DIR$/src/main/java/mNetwork.java" />
         <option value="$PROJECT_DIR$/src/main/java/cMatchInfo.java" />
         <option value="$PROJECT_DIR$/src/main/java/cPlayerInfo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/cStats.java" />
         <option value="$PROJECT_DIR$/src/main/java/cPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/cStats.java" />
         <option value="$PROJECT_DIR$/src/main/java/cMatch.java" />
-        <option value="$PROJECT_DIR$/src/main/java/mainclass.java" />
         <option value="$PROJECT_DIR$/src/main/java/mDotaStatsman.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mainclass.java" />
       </list>
     </option>
   </component>
@@ -213,8 +191,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -435,6 +413,49 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/cMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mDotaStatsman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="119" column="70" selection-start-line="119" selection-start-column="70" selection-end-line="119" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6397#6406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cStats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mainclass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
           <folding />
         </state>
@@ -446,12 +467,7 @@
           <caret line="123" column="88" selection-start-line="123" selection-start-column="88" selection-end-line="123" selection-end-column="88" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getMatchHistory#0;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#484#494#0" expanded="true" />
-            <element signature="e#1172#1180#0" expanded="true" />
-            <element signature="e#1463#1472#0" expanded="true" />
-            <element signature="method#getMatchHistory#1;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#5327#5337#0" expanded="true" />
+            <element signature="e#6397#6406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -496,12 +512,7 @@
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getMatchHistory#0;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#484#494#0" expanded="true" />
-            <element signature="e#1172#1180#0" expanded="true" />
-            <element signature="e#1463#1472#0" expanded="true" />
-            <element signature="method#getMatchHistory#1;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#5327#5337#0" expanded="true" />
+            <element signature="e#6397#6406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -536,12 +547,7 @@
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getMatchHistory#0;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#484#494#0" expanded="true" />
-            <element signature="e#1172#1180#0" expanded="true" />
-            <element signature="e#1463#1472#0" expanded="true" />
-            <element signature="method#getMatchHistory#1;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#5327#5337#0" expanded="true" />
+            <element signature="e#6397#6406#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -587,29 +593,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cPlayer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/cStats.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/cPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16776316">
           <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#190#191#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/cMatch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/cStats.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+          <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
           <folding />
         </state>
       </provider>
@@ -617,23 +620,18 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/mDotaStatsman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="119" column="70" selection-start-line="119" selection-start-column="70" selection-end-line="119" selection-end-column="70" />
+          <caret line="178" column="37" selection-start-line="178" selection-start-column="37" selection-end-line="178" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="method#getMatchHistory#0;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#484#494#0" expanded="true" />
-            <element signature="e#1172#1180#0" expanded="true" />
-            <element signature="e#1463#1472#0" expanded="true" />
-            <element signature="method#getMatchHistory#1;class#mDotaStatsman#0" expanded="false" />
-            <element signature="e#5327#5337#0" expanded="true" />
+            <element signature="e#6397#6406#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mainclass.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25164473">
-          <caret line="10" column="40" selection-start-line="10" selection-start-column="40" selection-end-line="10" selection-end-column="40" />
+        <state vertical-scroll-proportion="0.67105263">
+          <caret line="25" column="73" selection-start-line="25" selection-start-column="73" selection-end-line="25" selection-end-column="73" />
           <folding />
         </state>
       </provider>
