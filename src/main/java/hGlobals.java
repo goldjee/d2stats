@@ -23,4 +23,5 @@ public class hGlobals {
     public static String apiVersion = "v001/";
 
     public static mDotaStatsman mDS = new mDotaStatsman();
+    public static mExport mE = new mExport();
 }
